@@ -1,4 +1,4 @@
 ### test file
-'''bash
+```bash
 sudo apt update && sudo apt upgrade
-'''
+```
